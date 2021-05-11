@@ -1,14 +1,34 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "David",
-      "age": 30
+  "links": [
+    { 
+      "subject":"Physics",
+      "gmeet":"https://meet.google.com/sze-rjjk-mhq" ,
+      "moodle": "http://moodle.mec.ac.in/mod/attendance/view.php?id=10241",
+      
     },
     {
-      "name": "John",
-      "id": 2,
-      "age": 40
-    }
+      "subject":"BEE",
+      "gmeet": "https://meet.google.com/swt-wqno-utu",
+      "moodle": "http://moodle.mec.ac.in/mod/attendance/view.php?id=10115",
+      
+    },
+     {
+      "subject":"EM",
+      "gmeet": "https://meet.google.com/jqn-butk-ixm",
+      "moodle": "http://moodle.mec.ac.in/mod/attendance/view.php?id=10280",
+      
+    },
+     {
+      "subject":"Math",
+      "gmeet": "https://meet.google.com/mbc-hpmr-jhk",
+      "moodle": "http://moodle.mec.ac.in/mod/attendance/view.php?id=10013",
+      
+    },
+     {
+      "subject":"PC",
+      "gmeet": "https://meet.google.com/div-mdjr-ykb",
+      "moodle": "http://moodle.mec.ac.in/mod/attendance/view.php?id=10266",
+      
+    },
   ]
 }
